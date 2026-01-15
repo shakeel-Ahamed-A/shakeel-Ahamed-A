@@ -6,7 +6,22 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write **“SHAKEEL AHAMED A”** and a small badge showing **“Profile views 19”**.
-- There’s a section heading **“Animations”**.
-- Below that, there’s a contributions-style grid area and a green horizontal bar; under it, a broken/missing image link labeled **“3D Contribution Graph”** (indicating the image isn’t loading).
-- At the bottom-right, a Windows notification from **Snipping Tool** says the screenshot was copied to clipboard and saved automatically.
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: shakeel-Ahamed-A
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Update 3D contribution graph" || exit 0
+          git push
