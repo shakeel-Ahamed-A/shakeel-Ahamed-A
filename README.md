@@ -13,6 +13,6 @@
 ![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=shakeel-Ahamed-A&show_icons=true&theme=tokyonight)
-![Streak](https://streak-stats.demolab.com?user=shakeel-Ahamed-A&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-Ahamed-A&layout=compact&theme=tokyonight)
+![Stats](./assets/stats.svg)
+![Streak](./assets/streak.svg)
+![Top Langs](./assets/top-langs.svg)
