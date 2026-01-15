@@ -20,12 +20,13 @@ jobs:
       - name: Create output folder
         run: mkdir -p assets
 
-      - name: Download stats cards
+           - name: Download stats cards (with token)
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          curl -L "https://github-readme-stats.vercel.app/api?username=shakeel-Ahamed-A&show_icons=true&theme=tokyonight" -o assets/stats.svg
+          curl -L "https://github-readme-stats.vercel.app/api?username=shakeel-Ahamed-A&show_icons=true&theme=tokyonight&token=${GH_TOKEN}" -o assets/stats.svg
           curl -L "https://streak-stats.demolab.com?user=shakeel-Ahamed-A&theme=tokyonight" -o assets/streak.svg
-          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-Ahamed-A&layout=compact&theme=tokyonight" -o assets/top-langs.svg
-
+          curl -L "https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-Ahamed-A&layout=compact&theme=tokyonight&token=${GH_TOKEN}" -o assets/top-langs.svg
       - name: Commit & push (only if changed)
         run: |
           git config user.name "github-actions[bot]"
