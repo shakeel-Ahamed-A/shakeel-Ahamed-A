@@ -1,9 +1,9 @@
 name: Generate 3D contribution graph
 
 on:
-  schedule:
-    - cron: "0 18 * * *"  # daily
   workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"
 
 permissions:
   contents: write
@@ -12,16 +12,29 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1) Checkout repo so git commit/push works
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+
+      # 2) Generate the 3D files into the repo
       - name: Generate 3D contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: shakeel-Ahamed-A
 
+      # 3) Commit and push if there are changes
       - name: Commit & push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git commit -m "Update 3D contribution graph" || exit 0
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Update 3D contribution graph"
           git push
