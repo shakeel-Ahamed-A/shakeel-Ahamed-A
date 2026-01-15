@@ -1,0 +1,12 @@
+name: Generate 3D contribution graph
+
+on:
+  schedule:
+    - cron: "0 18 * * *"  # daily
+  workflow_dispatch:
+
+permissions:
+  contents: write **“SHAKEEL AHAMED A”** and a small badge showing **“Profile views 19”**.
+- There’s a section heading **“Animations”**.
+- Below that, there’s a contributions-style grid area and a green horizontal bar; under it, a broken/missing image link labeled **“3D Contribution Graph”** (indicating the image isn’t loading).
+- At the bottom-right, a Windows notification from **Snipping Tool** says the screenshot was copied to clipboard and saved automatically.
