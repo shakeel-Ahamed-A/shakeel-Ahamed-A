@@ -16,3 +16,15 @@
 ![Stats](./assets/stats.svg)
 ![Streak](./assets/streak.svg)
 ![Top Langs](./assets/top-langs.svg)
+## 🧰 Toolbox
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-orange?logo=mathworks&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=shakeel-Ahamed-A&theme=onedark)
+## 🌐 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox)](https://yourwebsite.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
