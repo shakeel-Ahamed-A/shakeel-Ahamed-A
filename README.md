@@ -27,14 +27,14 @@ Currently focused on SaaS, AI products, and becoming a better engineer with ever
 ## 🎬 Animations
 ![snake](https://raw.githubusercontent.com/shakeel-Ahamed-A/shakeel-Ahamed-A/output/github-contribution-grid-snake.svg)
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contribution Graph](https://raw.githubusercontent.com/shakeel-Ahamed-A/shakeel-Ahamed-A/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](./assets/stats.svg)
-![Streak](./assets/streak.svg)
-![Top Langs](./assets/top-langs.svg)
+![Stats](https://raw.githubusercontent.com/shakeel-Ahamed-A/shakeel-Ahamed-A/main/assets/stats.svg)
+![Streak](https://raw.githubusercontent.com/shakeel-Ahamed-A/shakeel-Ahamed-A/main/assets/streak.svg)
+![Top Langs](https://raw.githubusercontent.com/shakeel-Ahamed-A/shakeel-Ahamed-A/main/assets/top-langs.svg)
 
 ---
 
@@ -66,4 +66,4 @@ Currently focused on SaaS, AI products, and becoming a better engineer with ever
 
 ## 💬 Leave a Message
 Got feedback or want to collaborate?  
-👉 [Start a Discussion](https://github.com/shakeel-Ahamed-A/shakeel-ahamed-A/discussions)
+👉 [Start a Discussion](https://github.com/shakeel-Ahamed-A/shakeel-Ahamed-A/discussions)
