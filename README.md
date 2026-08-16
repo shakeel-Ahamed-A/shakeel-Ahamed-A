@@ -18,13 +18,13 @@
 
 Hi! I'm **Shakeel Ahamed**, an Electronics & Communication Engineering student interested in combining **electronics, programming, artificial intelligence and data** to build practical solutions.
 
-* 🎓 Electronics & Communication Engineering student
-* 🤖 Exploring Artificial Intelligence & Machine Learning
-* 📊 Interested in Data Science and analytics
-* 📡 Learning Signals & Systems and Digital Signal Processing
-* 💻 Working with Python, Java, C and MATLAB
-* ⚡ Exploring electronics, embedded systems and engineering applications
-* 🚀 Learning by building projects
+- 🎓 Electronics & Communication Engineering student
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 📊 Interested in Data Science and analytics
+- 📡 Learning Signals & Systems and Digital Signal Processing
+- 💻 Working with Python, Java, C and MATLAB
+- ⚡ Exploring electronics, embedded systems and engineering applications
+- 🚀 Learning by building projects
 
 ---
 
@@ -60,111 +60,3 @@ Hi! I'm **Shakeel Ahamed**, an Electronics & Communication Engineering student i
 📡 Digital Signal Processing
 ⚡ Electronics & Embedded Systems
 🧠 ECE + AI Applications
-```
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shakeel-Ahamed-A&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakeel-Ahamed-A&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shakeel-Ahamed-A&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shakeel-Ahamed-A&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-
-</div>
-
----
-
-## 📌 Featured Projects
-
-### 📊 Business Case Analysis — MATLAB
-
-Data-driven analysis and visualization using MATLAB.
-
-**Focus:** `MATLAB` `Data Analysis` `Visualization`
-
----
-
-### 📡 Signal Processing Projects
-
-Exploring signals, FFT, filtering and digital signal processing using MATLAB.
-
-**Focus:** `MATLAB` `DSP` `FFT`
-
----
-
-### 🤖 AI & Machine Learning
-
-Building practical projects while developing stronger foundations in artificial intelligence and machine learning.
-
-**Focus:** `Python` `Machine Learning` `Data Science`
-
----
-
-## 📚 Currently Learning
-
-```text
-Artificial Intelligence
-Machine Learning
-Data Science
-Digital Signal Processing
-Embedded Systems
-Cloud & DevOps
-Advanced Python
-```
-
----
-
-## 🎯 Goals
-
-* Build strong ECE fundamentals
-* Develop practical AI/ML skills
-* Build real-world engineering projects
-* Contribute to open-source projects
-* Develop a strong technical portfolio
-* Explore industry-oriented ECE opportunities
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/shakeel-Ahamed-A">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Build • Learn • Experiment • Repeat
-
-</div>
