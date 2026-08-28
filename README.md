@@ -15,7 +15,7 @@
 > Electronics & Communication Engineering student exploring Artificial Intelligence, Data Science, Digital Signal Processing and practical engineering systems.
 
 ```text
-[ shakeel@github ~ ]$ whoami
+SHAKEEL AHAMED
 
 ECE Student
 AI / ML Enthusiast
