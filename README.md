@@ -23,12 +23,14 @@ I enjoy turning ideas into useful prototypes, from AI evaluation tools and predi
 
 ## Featured projects
 
+### Electronics, embedded systems, and engineering
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/shakeel-Ahamed-A/Candidate-Evaluation">Candidate Evaluation</a></h3>
-      <p>Multi-agent interview and resume evaluation system with evidence-based debate and confidence scoring.</p>
-      <p><sub>Python | AI agents | Evaluation systems</sub></p>
+      <h3><a href="https://github.com/shakeel-Ahamed-A/Parking-Project">Smart Parking Barrier</a></h3>
+      <p>Embedded automation prototype for smart parking access and barrier control.</p>
+      <p><sub>C++ | Embedded systems | Automation</sub></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/shakeel-Ahamed-A/Matlab-Edge-to-Cloud-Predictive-Maintanence">Predictive Maintenance</a></h3>
@@ -38,11 +40,33 @@ I enjoy turning ideas into useful prototypes, from AI evaluation tools and predi
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/shakeel-Ahamed-A/3D-Website">3D Techfest Website</a></h3>
-      <p>Immersive event website with Three.js scenes, GSAP motion, scroll exploration, and responsive layouts.</p>
-      <p><sub>JavaScript | Three.js | GSAP</sub></p>
+      <h3><a href="https://github.com/shakeel-Ahamed-A/Business-Sales-Analysis-MATLAB">Business Sales Analysis</a></h3>
+      <p>MATLAB project for exploring business sales data, trends, and visual analysis.</p>
+      <p><sub>MATLAB | Data analysis | Visualization</sub></p>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/shakeel-Ahamed-A/arc-task-gen">ARC Task Generator</a></h3>
+      <p>Python tooling for generating and exploring ARC-style reasoning tasks.</p>
+      <p><sub>Python | AI reasoning | Benchmarking</sub></p>
+    </td>
+  </tr>
+</table>
+
+### AI, data, and interactive software
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/shakeel-Ahamed-A/Candidate-Evaluation">Candidate Evaluation</a></h3>
+      <p>Multi-agent interview and resume evaluation system with evidence-based debate and confidence scoring.</p>
+      <p><sub>Python | AI agents | Evaluation systems</sub></p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/shakeel-Ahamed-A/3D-Website">3D Techfest Website</a></h3>
+      <p>Immersive 3D event website with Three.js scenes, GSAP motion, scroll exploration, and responsive layouts.</p>
+      <p><sub>JavaScript | Three.js | GSAP</sub></p>
+    </td>
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/shakeel-Ahamed-A/Ideate-Landing-Page">Ideate Landing Page</a></h3>
       <p>Cinematic landing-page concept with radar-inspired visuals, signal animations, and editorial UI.</p>
       <p><sub>React | TypeScript | Vite | UI engineering</sub></p>
@@ -53,10 +77,7 @@ I enjoy turning ideas into useful prototypes, from AI evaluation tools and predi
 <details>
 <summary><strong>More projects</strong></summary>
 
-- [Parking Project](https://github.com/shakeel-Ahamed-A/Parking-Project) - Smart parking barrier prototype.
 - [Passage Parallax](https://github.com/shakeel-Ahamed-A/Passage_Parallax) - Seven-scene parallax scrolling experience.
-- [Drift Sense Hackathon](https://github.com/shakeel-Ahamed-A/Drift_Sense_Hackathon) - Engineering and data-focused hackathon work.
-- [Business Sales Analysis](https://github.com/shakeel-Ahamed-A/Business-Sales-Analysis-MATLAB) - MATLAB-based sales analysis project.
 
 </details>
 
