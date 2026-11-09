@@ -44,7 +44,7 @@ I enjoy turning ideas into useful prototypes, from AI evaluation tools and predi
       <p>MATLAB project for exploring business sales data, trends, and visual analysis.</p>
       <p><sub>MATLAB | Data analysis | Visualization</sub></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/shakeel-Ahamed-A/arc-task-gen">ARC Task Generator</a></h3>
       <p>Python tooling for generating and exploring ARC-style reasoning tasks.</p>
       <p><sub>Python | AI reasoning | Benchmarking</sub></p>
@@ -63,7 +63,7 @@ I enjoy turning ideas into useful prototypes, from AI evaluation tools and predi
     </td>
     <td width="33%" valign="top">
       <h3><a href="https://github.com/shakeel-Ahamed-A/3D-Website">3D Techfest Website</a></h3>
-      <p>Immersive event website with Three.js scenes, GSAP motion, scroll exploration, and responsive layouts.</p>
+      <p>Immersive 3D event website with Three.js scenes, GSAP motion, scroll exploration, and responsive layouts.</p>
       <p><sub>JavaScript | Three.js | GSAP</sub></p>
     </td>
     <td width="33%" valign="top">
