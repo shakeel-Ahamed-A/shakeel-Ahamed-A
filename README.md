@@ -44,11 +44,6 @@ I enjoy turning ideas into useful prototypes, from AI evaluation tools and predi
       <p>MATLAB project for exploring business sales data, trends, and visual analysis.</p>
       <p><sub>MATLAB | Data analysis | Visualization</sub></p>
     </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/shakeel-Ahamed-A/arc-task-gen">ARC Task Generator</a></h3>
-      <p>Python tooling for generating and exploring ARC-style reasoning tasks.</p>
-      <p><sub>Python | AI reasoning | Benchmarking</sub></p>
-    </td>
   </tr>
 </table>
 
